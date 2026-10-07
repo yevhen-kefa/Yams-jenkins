@@ -69,7 +69,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>yams.vue.Main</mainClass>
+                            <mainClass>yams.vue.Launcher</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
